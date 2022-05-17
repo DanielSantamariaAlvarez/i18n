@@ -1,0 +1,11 @@
+{
+    "Table": "table-dark",
+	"Position": "Nombre del cargo",
+	"Company": "Empresa",
+	"Salary": "Salario",
+	"City": "Ciudad",
+	"PublicationDate": "Fecha de publicación",
+	"Views": "No. de visitas",
+	"Millions": "millones",
+	"Million": "millón"
+}
